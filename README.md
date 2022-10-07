@@ -1,2 +1,0 @@
-# btltandroid
-bt_ltandroid
